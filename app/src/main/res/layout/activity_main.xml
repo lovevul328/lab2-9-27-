@@ -73,7 +73,7 @@
                     android:text="名字"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    andriod:textAppearance="?andriod:attr/textAppearanceLarge"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
                     android:layout_weight="1"
                     android:textSize="15sp" />
 
@@ -81,7 +81,7 @@
                     android:text="xxx"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    andriod:textAppearance="?andriod:attr/textAppearanceLarge"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
                     android:layout_weight="1"
                     android:id="@+id/name"
                     android:textSize="15sp" />
@@ -97,7 +97,7 @@
                     android:text="勝利者"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    andriod:textAppearance="?andriod:attr/textAppearanceLarge"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
                     android:layout_weight="1"
                     android:textSize="15sp" />
 
@@ -105,7 +105,7 @@
                     android:text="win"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    andriod:textAppearance="?andriod:attr/textAppearanceLarge"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
                     android:layout_weight="1"
                     android:id="@+id/winner"
                     android:textSize="15sp" />
@@ -121,7 +121,7 @@
                     android:text="我方出拳"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    andriod:textAppearance="?andriod:attr/textAppearanceLarge"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
                     android:layout_weight="1"
                     android:textSize="15sp" />
 
@@ -129,7 +129,7 @@
                     android:text="石頭"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    andriod:textAppearance="?andriod:attr/textAppearanceLarge"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
                     android:layout_weight="1"
                     android:id="@+id/myMora"
                     android:textSize="15sp" />
@@ -145,7 +145,7 @@
                     android:text="電腦出拳"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    andriod:textAppearance="?andriod:attr/textAppearanceLarge"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
                     android:layout_weight="1"
                     android:textSize="15sp" />
 
@@ -153,12 +153,12 @@
                     android:text="步"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    andriod:textAppearance="?andriod:attr/textAppearanceLarge"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
                     android:layout_weight="1"
                     android:id="@+id/computerMora"
-                    android:textSize="15sp" /> />
+                    android:textSize="15sp" />
             </LinearLayout>
         </LinearLayout>
     </LinearLayout>
 
-</LinearLayout>
+
